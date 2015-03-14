@@ -9,7 +9,7 @@ import com.csumb.dmdc.R;
 
 public class LoginActivity extends ActionBarActivity {
 
-    //
+    //l
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
